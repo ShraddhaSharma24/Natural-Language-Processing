@@ -1,0 +1,37 @@
+# Core libraries
+numpy
+pandas
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# NLP / LLMs
+transformers
+datasets
+nltk
+spacy
+sentencepiece
+
+# Visualization / Explainability
+shap
+lime
+
+# Time Series / Stats
+statsmodels
+pmdarima
+
+# Jupyter
+jupyter
+notebook
+ipykernel
